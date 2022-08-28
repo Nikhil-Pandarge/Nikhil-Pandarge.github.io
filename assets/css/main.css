@@ -91,7 +91,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #0e0e0e; /* made changes here white to black*/
 		height: 100%;
 		min-width: 320px;
 	}
@@ -2254,7 +2254,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
+		background: url("images/overlay.png"), url("../../images/one.gif");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
