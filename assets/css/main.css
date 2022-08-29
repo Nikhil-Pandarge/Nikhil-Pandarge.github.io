@@ -649,7 +649,7 @@ input, select, textarea {
 		}
 
 /* Button */
-/* 
+
 	input[type="button"],
 	input[type="submit"],
 	input[type="reset"],
@@ -763,7 +763,7 @@ input, select, textarea {
 			.button.style2.down,
 			button.style2.down {
 				background-image: url("images/arrow.svg");
-			} */
+			}
 
 /* Form */
 /* 
