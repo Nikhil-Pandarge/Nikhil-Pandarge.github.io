@@ -649,7 +649,7 @@ input, select, textarea {
 		}
 
 /* Button */
-
+/* 
 	input[type="button"],
 	input[type="submit"],
 	input[type="reset"],
@@ -763,10 +763,10 @@ input, select, textarea {
 			.button.style2.down,
 			button.style2.down {
 				background-image: url("images/arrow.svg");
-			}
+			} */
 
 /* Form */
-
+/* 
 	form {
 		margin: 0 0 2em 0;
 	}
@@ -913,7 +913,7 @@ input, select, textarea {
 
 	:-ms-input-placeholder {
 		opacity: 0.375;
-	}
+	} */
 
 /* Icon */
 
@@ -1833,7 +1833,7 @@ input, select, textarea {
 		left: 0;
 		top: 0;
 		width: 100%;
-		background: rgba(30, 113, 229, 0.31); /*made changes here too from white to black for header*/
+		background: rgba(87, 105, 131, 0.43); /*made changes here too from white to black for header*/
 		height: 3em;
 		line-height: 3em;
 		box-shadow: 0 0 0.15em 0 rgba(0, 0, 0, 0.1);
