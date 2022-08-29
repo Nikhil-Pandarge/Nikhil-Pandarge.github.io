@@ -91,7 +91,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #0e0e0e; /* made changes here white to black*/
+		background: #fffafa; /* made changes here white to black angain made changes black to white*/
 		height: 100%;
 		min-width: 320px;
 	}
@@ -308,7 +308,7 @@ input, select, textarea {
 			-webkit-transform: scale(1) rotate(0deg);
 			-ms-transform: scale(1) rotate(0deg);
 			transform: scale(1) rotate(0deg);
-			color: #e5e6e7;
+			color: #000000; /*I made changes here white to black*/
 			z-index: 100001;
 		}
 
@@ -317,7 +317,7 @@ input, select, textarea {
 			-webkit-transform: scale(0.5) rotate(360deg);
 			-ms-transform: scale(0.5) rotate(360deg);
 			transform: scale(0.5) rotate(360deg);
-			color: #e5e6e7;
+			color: #000000; /*I made changes here white to black*/
 			z-index: 100001;
 		}
 
@@ -326,7 +326,7 @@ input, select, textarea {
 			-webkit-transform: scale(0.5) rotate(360deg);
 			-ms-transform: scale(0.5) rotate(360deg);
 			transform: scale(0.5) rotate(360deg);
-			color: #e5e6e7;
+			color: #000000; /*I made changes here white to black*/
 			z-index: -1;
 		}
 	}
